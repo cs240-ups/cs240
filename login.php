@@ -1,4 +1,4 @@
 <?php
 welcome to login.php
-  
-modify here
+
+Add somthng -- checkdnsrr()
